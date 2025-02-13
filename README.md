@@ -5,4 +5,4 @@ Facial Emotion Detection System using Python and Flask app.
 
 ## Dataset => 🔗https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data
 
-## Classes => angry,disgust,fear,happy,neutral,sad,surprise 
+## Classes => angry, disgust, fear, happy, neutral, sad, surprise 
